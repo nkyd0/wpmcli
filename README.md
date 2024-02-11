@@ -1,4 +1,4 @@
-# wpmcli
+# wpmcli (it doesn't even work so don't download, you can look at source code though if you want)
 a really shitty typing test...
 
 you know how to install, just git clone it.
